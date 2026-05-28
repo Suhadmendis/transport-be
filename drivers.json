@@ -1,0 +1,22 @@
+[
+  { "id": 1,  "ref": "DRV-001", "name": "Chaminda Perera",         "phone": "0771234567", "licenseNumber": "B1234567", "status": "active",   "dateOfBirth": "1985-03-15", "joiningDate": "2018-06-01" },
+  { "id": 2,  "ref": "DRV-002", "name": "Nuwan Rajapaksa",          "phone": "0712345678", "licenseNumber": "B2345678", "status": "active",   "dateOfBirth": "1982-07-22", "joiningDate": "2016-03-15" },
+  { "id": 3,  "ref": "DRV-003", "name": "Kasun Fernando",           "phone": "0763456789", "licenseNumber": "B3456789", "status": "active",   "dateOfBirth": "1990-11-08", "joiningDate": "2020-01-10" },
+  { "id": 4,  "ref": "DRV-004", "name": "Pradeep Silva",            "phone": "0774567890", "licenseNumber": "B4567890", "status": "inactive", "dateOfBirth": "1978-05-30", "joiningDate": "2015-09-01" },
+  { "id": 5,  "ref": "DRV-005", "name": "Roshan Bandara",           "phone": "0755678901", "licenseNumber": "B5678901", "status": "active",   "dateOfBirth": "1987-09-14", "joiningDate": "2019-04-20" },
+  { "id": 6,  "ref": "DRV-006", "name": "Dilshan Wickramasinghe",   "phone": "0766789012", "licenseNumber": "B6789012", "status": "active",   "dateOfBirth": "1993-01-25", "joiningDate": "2021-07-05" },
+  { "id": 7,  "ref": "DRV-007", "name": "Asitha Jayawardena",       "phone": "0777890123", "licenseNumber": "B7890123", "status": "on_leave", "dateOfBirth": "1980-12-18", "joiningDate": "2017-11-12" },
+  { "id": 8,  "ref": "DRV-008", "name": "Ruwan Dissanayake",        "phone": "0718901234", "licenseNumber": "B8901234", "status": "active",   "dateOfBirth": "1975-06-03", "joiningDate": "2014-02-28" },
+  { "id": 9,  "ref": "DRV-009", "name": "Saman Kumarasinghe",       "phone": "0759012345", "licenseNumber": "B9012345", "status": "active",   "dateOfBirth": "1988-04-20", "joiningDate": "2018-10-15" },
+  { "id": 10, "ref": "DRV-010", "name": "Gayan Pathirana",          "phone": "0760123456", "licenseNumber": "B0123456", "status": "inactive", "dateOfBirth": "1992-08-07", "joiningDate": "2020-05-18" },
+  { "id": 11, "ref": "DRV-011", "name": "Tharaka Senanayake",       "phone": "0771235678", "licenseNumber": "B1235678", "status": "active",   "dateOfBirth": "1986-02-11", "joiningDate": "2017-08-22" },
+  { "id": 12, "ref": "DRV-012", "name": "Lahiru Rathnayake",        "phone": "0712346789", "licenseNumber": "B2346789", "status": "active",   "dateOfBirth": "1991-10-29", "joiningDate": "2019-12-01" },
+  { "id": 13, "ref": "DRV-013", "name": "Chathura Gunasekara",      "phone": "0763457890", "licenseNumber": "B3457890", "status": "active",   "dateOfBirth": "1984-07-16", "joiningDate": "2016-06-10" },
+  { "id": 14, "ref": "DRV-014", "name": "Nimal Weerasinghe",        "phone": "0774568901", "licenseNumber": "B4568901", "status": "on_leave", "dateOfBirth": "1979-03-04", "joiningDate": "2015-01-20" },
+  { "id": 15, "ref": "DRV-015", "name": "Sunil Mendis",             "phone": "0755679012", "licenseNumber": "B5679012", "status": "active",   "dateOfBirth": "1983-11-22", "joiningDate": "2017-03-08" },
+  { "id": 16, "ref": "DRV-016", "name": "Rajendran Krishnaswamy",   "phone": "0766780123", "licenseNumber": "B6780123", "status": "active",   "dateOfBirth": "1977-08-15", "joiningDate": "2014-07-30" },
+  { "id": 17, "ref": "DRV-017", "name": "Murugan Subramaniam",      "phone": "0777891234", "licenseNumber": "B7891234", "status": "active",   "dateOfBirth": "1989-05-08", "joiningDate": "2019-02-14" },
+  { "id": 18, "ref": "DRV-018", "name": "Selvam Arumugam",          "phone": "0718902345", "licenseNumber": "B8902345", "status": "inactive", "dateOfBirth": "1981-12-25", "joiningDate": "2016-09-05" },
+  { "id": 19, "ref": "DRV-019", "name": "Vijayan Kannan",           "phone": "0759013456", "licenseNumber": "B9013456", "status": "active",   "dateOfBirth": "1994-04-17", "joiningDate": "2021-11-28" },
+  { "id": 20, "ref": "DRV-020", "name": "Kumaran Rajan",            "phone": "0760124567", "licenseNumber": "B0124567", "status": "active",   "dateOfBirth": "1986-09-02", "joiningDate": "2018-04-03" }
+]

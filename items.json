@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "ref": "ITM-001",
+    "name": "Diesel Fuel",
+    "category": "fuel",
+    "unit": "liters",
+    "description": "Standard diesel fuel for fleet vehicles",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "ref": "ITM-002",
+    "name": "Engine Oil (15W-40)",
+    "category": "equipment",
+    "unit": "liters",
+    "description": "Multi-grade engine oil for heavy vehicles",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "ref": "ITM-003",
+    "name": "Spare Tyres",
+    "category": "equipment",
+    "unit": "units",
+    "description": "Replacement tyres for trucks and lorries",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "ref": "ITM-004",
+    "name": "Safety Helmets",
+    "category": "equipment",
+    "unit": "units",
+    "description": "Hard hats for loading and unloading operations",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "ref": "ITM-005",
+    "name": "High-Vis Vests",
+    "category": "equipment",
+    "unit": "units",
+    "description": "Reflective safety vests for field staff",
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "ref": "ITM-006",
+    "name": "First Aid Kits",
+    "category": "equipment",
+    "unit": "units",
+    "description": "Standard first aid kits for each vehicle",
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "ref": "ITM-007",
+    "name": "Cargo Ratchet Straps",
+    "category": "cargo",
+    "unit": "units",
+    "description": "Heavy-duty tie-down straps for securing loads",
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "ref": "ITM-008",
+    "name": "Cleaning Supplies",
+    "category": "materials",
+    "unit": "sets",
+    "description": "Vehicle cleaning products and tools",
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "ref": "ITM-009",
+    "name": "Tool Kits",
+    "category": "equipment",
+    "unit": "units",
+    "description": "Basic roadside repair tool kits",
+    "status": "active"
+  },
+  {
+    "id": 10,
+    "ref": "ITM-010",
+    "name": "Water Supply Containers",
+    "category": "cargo",
+    "unit": "units",
+    "description": "Portable water containers for long-haul trips",
+    "status": "inactive"
+  }
+]
