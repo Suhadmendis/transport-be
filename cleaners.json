@@ -1,0 +1,22 @@
+[
+  { "id": 1,  "ref": "CLN-001", "name": "Sandya Perera",             "phone": "0771112233", "status": "active",   "dateOfBirth": "1992-05-12", "joiningDate": "2020-03-01" },
+  { "id": 2,  "ref": "CLN-002", "name": "Dilhani Fernando",          "phone": "0712223344", "status": "active",   "dateOfBirth": "1988-09-25", "joiningDate": "2018-07-15" },
+  { "id": 3,  "ref": "CLN-003", "name": "Kumari Silva",              "phone": "0763334455", "status": "inactive", "dateOfBirth": "1995-02-18", "joiningDate": "2021-06-10" },
+  { "id": 4,  "ref": "CLN-004", "name": "Shanika Rajapaksa",         "phone": "0774445566", "status": "active",   "dateOfBirth": "1990-11-07", "joiningDate": "2019-01-20" },
+  { "id": 5,  "ref": "CLN-005", "name": "Nadeesha Wickramasinghe",   "phone": "0755556677", "status": "active",   "dateOfBirth": "1987-07-30", "joiningDate": "2017-09-08" },
+  { "id": 6,  "ref": "CLN-006", "name": "Upeksha Jayawardena",       "phone": "0766667788", "status": "active",   "dateOfBirth": "1993-03-14", "joiningDate": "2020-11-25" },
+  { "id": 7,  "ref": "CLN-007", "name": "Sachini Dissanayake",       "phone": "0777778899", "status": "active",   "dateOfBirth": "1991-08-22", "joiningDate": "2019-04-12" },
+  { "id": 8,  "ref": "CLN-008", "name": "Chathurika Bandara",        "phone": "0718889900", "status": "inactive", "dateOfBirth": "1986-12-05", "joiningDate": "2018-02-28" },
+  { "id": 9,  "ref": "CLN-009", "name": "Imesha Kumarasinghe",       "phone": "0759990011", "status": "active",   "dateOfBirth": "1994-06-19", "joiningDate": "2021-08-05" },
+  { "id": 10, "ref": "CLN-010", "name": "Nadeeka Pathirana",         "phone": "0760001122", "status": "active",   "dateOfBirth": "1989-04-03", "joiningDate": "2017-12-15" },
+  { "id": 11, "ref": "CLN-011", "name": "Janaka Senanayake",         "phone": "0771113344", "status": "active",   "dateOfBirth": "1985-10-28", "joiningDate": "2016-05-22" },
+  { "id": 12, "ref": "CLN-012", "name": "Prasad Rathnayake",         "phone": "0712224455", "status": "active",   "dateOfBirth": "1992-01-15", "joiningDate": "2020-09-01" },
+  { "id": 13, "ref": "CLN-013", "name": "Indika Gunasekara",         "phone": "0763335566", "status": "inactive", "dateOfBirth": "1983-07-09", "joiningDate": "2015-03-18" },
+  { "id": 14, "ref": "CLN-014", "name": "Thilak Weerasinghe",        "phone": "0774446677", "status": "active",   "dateOfBirth": "1990-03-24", "joiningDate": "2019-07-10" },
+  { "id": 15, "ref": "CLN-015", "name": "Bandula Mendis",            "phone": "0755557788", "status": "active",   "dateOfBirth": "1987-11-16", "joiningDate": "2018-01-05" },
+  { "id": 16, "ref": "CLN-016", "name": "Yoganathan Ratnasingham",   "phone": "0766668899", "status": "active",   "dateOfBirth": "1984-05-31", "joiningDate": "2016-10-20" },
+  { "id": 17, "ref": "CLN-017", "name": "Sivanathan Krishnamurthy",  "phone": "0777779900", "status": "active",   "dateOfBirth": "1991-09-08", "joiningDate": "2020-02-14" },
+  { "id": 18, "ref": "CLN-018", "name": "Uthayan Balakrishnan",      "phone": "0718880011", "status": "inactive", "dateOfBirth": "1988-02-22", "joiningDate": "2018-06-30" },
+  { "id": 19, "ref": "CLN-019", "name": "Piriya Sutharsan",          "phone": "0759991122", "status": "active",   "dateOfBirth": "1994-12-11", "joiningDate": "2021-03-25" },
+  { "id": 20, "ref": "CLN-020", "name": "Kavitha Murugaiah",         "phone": "0760002233", "status": "active",   "dateOfBirth": "1986-08-17", "joiningDate": "2017-07-08" }
+]
